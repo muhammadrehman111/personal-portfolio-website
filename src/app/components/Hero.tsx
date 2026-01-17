@@ -75,7 +75,7 @@ export function Hero() {
                 whileTap={{ scale: 0.95 }}
                 onClick={() => {
                   // Replace this URL with your actual Google Drive download link
-                  const cvUrl = 'https://drive.google.com/file/d/1Wf9zx6n4gCSAPpGUOvCZmPDE1c6Murz1/view?usp=drive_link';
+                  const cvUrl = 'https://drive.google.com/file/d/18K4dvusT6AXANcJJS0KbwS3GoCv2qeik/view?usp=drive_link';
                   window.open(cvUrl, '_blank');
                 }}
                 className="px-8 py-4 rounded-2xl border border-border bg-card hover:bg-accent transition-colors flex items-center gap-2"
